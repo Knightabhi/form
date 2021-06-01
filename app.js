@@ -23,5 +23,3 @@ app.post("/", function (req, res) {
 app.listen(3000, function () {
   console.log("server is running");
 });
-
-//a60e5385faa1943f25a7be98c187c9ae-us1
